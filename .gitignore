@@ -1,2 +1,9 @@
-# Ingnore _putchar.c
-_putchar.c
+# Ignore Emacs buffer files
+*~
+*#
+
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.out
